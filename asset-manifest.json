@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/booya-shop-widget/static/css/main.a51ea30a.css",
+    "main.js": "/booya-shop-widget/static/js/main.cdf06300.js",
+    "index.html": "/booya-shop-widget/index.html",
+    "main.a51ea30a.css.map": "/booya-shop-widget/static/css/main.a51ea30a.css.map",
+    "main.cdf06300.js.map": "/booya-shop-widget/static/js/main.cdf06300.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a51ea30a.css",
+    "static/js/main.cdf06300.js"
+  ]
+}
