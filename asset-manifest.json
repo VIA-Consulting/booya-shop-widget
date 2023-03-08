@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/booya-shop-widget/static/css/main.48a4a0da.css",
-    "main.js": "/booya-shop-widget/static/js/main.5f1b1cfc.js",
+    "main.css": "/booya-shop-widget/static/css/main.cd29346e.css",
+    "main.js": "/booya-shop-widget/static/js/main.729c76a1.js",
+    "static/media/PRODUTO3.PNG": "/booya-shop-widget/static/media/PRODUTO3.ede7b46becf3b27151f8.PNG",
+    "static/media/PRODUTO1.PNG": "/booya-shop-widget/static/media/PRODUTO1.89edd74661060f0cfa02.PNG",
+    "static/media/PRODUTO2.PNG": "/booya-shop-widget/static/media/PRODUTO2.34188f7933007927f675.PNG",
     "index.html": "/booya-shop-widget/index.html",
     "static/media/menu.PNG": "/booya-shop-widget/static/media/menu.130517683331e92c0d2f.PNG",
-    "main.48a4a0da.css.map": "/booya-shop-widget/static/css/main.48a4a0da.css.map",
-    "main.5f1b1cfc.js.map": "/booya-shop-widget/static/js/main.5f1b1cfc.js.map"
+    "main.cd29346e.css.map": "/booya-shop-widget/static/css/main.cd29346e.css.map",
+    "main.729c76a1.js.map": "/booya-shop-widget/static/js/main.729c76a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.48a4a0da.css",
-    "static/js/main.5f1b1cfc.js"
+    "static/css/main.cd29346e.css",
+    "static/js/main.729c76a1.js"
   ]
 }
