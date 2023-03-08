@@ -1,0 +1,14 @@
+.product {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.product > img {
+  margin-right: 10px;
+}
+
+.product strong {
+  width: 75px;
+}
