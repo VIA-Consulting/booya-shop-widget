@@ -1,3 +1,31 @@
-.App {
-  text-align: center;
+section {
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+  margin: 0 auto;
+  margin-bottom: 25px;
+}
+
+.show {
+  display: block;
+}
+
+.disappear {
+  display: none;
+}
+
+#phone-container {
+  display: none;
+  background-color: var(--MainBlack);
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 125%;
+  opacity: 0.7;
+}
+
+#phone-container.active {
+  display: block;
 }

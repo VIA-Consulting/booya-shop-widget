@@ -1,0 +1,27 @@
+header,
+nav > ul {
+  background: var(--MainWhite);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  padding: 0 3rem;
+  margin-bottom: 40px;
+  margin-top: 15px;
+  text-align: center;
+  transition: var(--Transitions);
+}
+
+nav > ul {
+  padding: 0;
+  color: var(--MainBlack);
+}
+
+nav > ul > li > a {
+  margin-left: 100px;
+  text-decoration: none;
+}
+
+#menu {
+  display: none;
+}

@@ -1,9 +1,22 @@
+import { Header } from '../Header';
 import './styles.css';
 
 export function App() {
+
+
   return (
-    <div className="App">
-      <h1>Booya Shop</h1>
-    </div>
+    <>
+      <Header />
+
+      <main>
+        <section>
+          <div>
+
+          </div>
+        </section>
+
+        <div id="phone-container"></div>
+      </main>
+    </>
   );
-}
+};
