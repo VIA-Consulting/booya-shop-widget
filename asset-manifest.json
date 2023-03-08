@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/booya-shop-widget/static/css/main.48a4a0da.css",
-    "main.js": "/booya-shop-widget/static/js/main.6f1ae24e.js",
+    "main.js": "/booya-shop-widget/static/js/main.5f1b1cfc.js",
     "index.html": "/booya-shop-widget/index.html",
     "static/media/menu.PNG": "/booya-shop-widget/static/media/menu.130517683331e92c0d2f.PNG",
     "main.48a4a0da.css.map": "/booya-shop-widget/static/css/main.48a4a0da.css.map",
-    "main.6f1ae24e.js.map": "/booya-shop-widget/static/js/main.6f1ae24e.js.map"
+    "main.5f1b1cfc.js.map": "/booya-shop-widget/static/js/main.5f1b1cfc.js.map"
   },
   "entrypoints": [
     "static/css/main.48a4a0da.css",
-    "static/js/main.6f1ae24e.js"
+    "static/js/main.5f1b1cfc.js"
   ]
 }
