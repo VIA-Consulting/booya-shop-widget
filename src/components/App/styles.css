@@ -43,6 +43,32 @@ section {
   display: none;
 }
 
+#phone {
+  display: none;
+}
+
+#phone > div {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  z-index: 99;
+  position: absolute;
+  top: 25%;
+  left: 25%;
+}
+
+#phone form {
+  width: 100%;
+  text-align: center;
+  background-color: var(--MainWhite);
+  padding: 75px 0;
+  opacity: 1;
+  border-radius: 22px;
+  box-shadow: var(--Shadow);
+}
+
 @media screen and (max-width: 800px) {
   :root {
     padding: 0 2rem;

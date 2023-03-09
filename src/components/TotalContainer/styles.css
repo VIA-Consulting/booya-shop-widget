@@ -1,0 +1,15 @@
+#total-container {
+  display: flex;
+  align-items: end;
+  gap: 30%;
+}
+
+.subtotal {
+  width: 25%;
+}
+
+.subtotal > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,0 +1,30 @@
+.payment {
+  border: none;
+  color: #c2c0fc;
+  background-color: var(--MainWhite);
+  border-radius: 8px;
+  padding: 25px 100px;
+  width: 100%;
+  margin: 7.5px 0;
+}
+
+.payment:hover,
+.payment.active {
+  opacity: 1.1;
+  cursor: pointer;
+  box-shadow: var(--Shadow);
+}
+
+#booya-description {
+  display: flex;
+  justify-content: end;
+  margin-top: -2.5rem;
+  margin-right: 1rem;
+}
+
+#payment-container {
+  background-color: var(--LighGrey);
+  border-radius: 11px;
+  padding: 30px;
+  padding-bottom: 90px;
+}
