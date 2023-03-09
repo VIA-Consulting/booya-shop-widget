@@ -47,6 +47,10 @@ section {
   display: none;
 }
 
+#phone.active {
+  display: block;
+}
+
 #phone > div {
   width: 50%;
   display: flex;

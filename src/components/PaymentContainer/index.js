@@ -3,6 +3,8 @@ import booyaLogo from "../../assets/booya.png";
 import './styles.css';
 
 export const PaymentContainer = () => {
+  // id comerciante tem q ser um state
+
   return (
     <div className="col-sm-12 col-md-4" id="payment-container-parent">
       <div id="payment-container">

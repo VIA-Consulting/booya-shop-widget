@@ -1,0 +1,36 @@
+#country {
+  width: 15%;
+  margin-right: -10px;
+  margin-top: 20px;
+}
+
+.button-payment {
+  border: none;
+  background-color: var(--MainColor);
+  color: var(--MainWhite);
+  padding: 10px 80px;
+  border-radius: 8px;
+  margin-top: 20px;
+  opacity: 0.8;
+  font-size: 12px;
+  font-weight: 200;
+}
+
+.button-payment:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+input {
+  border: 1px solid var(--LighGrey);
+  padding: 5px 10px;
+  border-radius: 8px 0 0 8px;
+  font-size: 20px;
+}
+
+#number {
+  border-radius: 0 8px 8px 0;
+  color: var(--MainBlack);
+  font-weight: bold;
+  width: 50%;
+}
