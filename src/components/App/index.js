@@ -2,6 +2,7 @@
 // import "../../inputTel/build/js/utils.js";
 import { Header } from '../Header';
 import { PaymentContainer } from '../PaymentContainer';
+import { PopupLoading } from '../PopupLoading';
 import { PopupPhone } from '../PopupPhone';
 import { ShoppingCart } from '../ShoppingCart';
 import { ShoppingCartMobile } from '../ShoppingCartMobile';
@@ -170,7 +171,8 @@ export function App() {
           <div>
             <form>
               <PopupPhone />
-
+              <PopupLoading />
+              
             </form>
           </div>
         </div>
