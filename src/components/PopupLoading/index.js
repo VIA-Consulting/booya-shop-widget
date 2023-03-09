@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../../public/spinner.css';
+import './spinner.css';
 
 export const PopupLoading = () => {
   return (

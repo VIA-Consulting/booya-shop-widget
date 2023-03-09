@@ -3,6 +3,6 @@ export const inputInstance = intlTelInput(input, {
     initialCountry: "pt",
     nationalMode: true,
     separateDialCode: true,
-    utilsScript: "../src/inputTel/build/js/utils.js",
+    utilsScript: "../../inputTel/build/js/utils.js",
     separateDialCode: true
 });
